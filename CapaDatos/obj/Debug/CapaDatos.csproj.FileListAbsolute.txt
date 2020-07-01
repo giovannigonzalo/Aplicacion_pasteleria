@@ -1,0 +1,15 @@
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.dll
+D:\SistemaAcademico\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.dll
+D:\SistemaAcademico\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaDatos\bin\Debug\CapaDatos.dll
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaDatos\obj\Debug\CapaDatos.dll
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaDatos\obj\Debug\CapaDatos.pdb

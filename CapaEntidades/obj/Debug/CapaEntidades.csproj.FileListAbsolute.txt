@@ -1,0 +1,15 @@
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\SistemaAcademico\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\SistemaAcademico\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+D:\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\SistemaAcademico\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaEntidades\obj\Debug\CapaEntidades.pdb

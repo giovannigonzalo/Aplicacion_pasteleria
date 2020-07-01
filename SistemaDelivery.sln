@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackEnd", "BackEnd", "{23669485-5FD8-4B75-8DDA-D2CBEA61D8E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{C93A388E-6BFF-47E3-95FE-6FE815802844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{4E85AEF3-4802-4FEF-975B-CE261D7FF10D}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CapaPresentacion", "http://localhost:10628", "{5B0FAE70-A5CB-4A91-8E50-5AF1BC100CC1}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{6eb39249-ad3c-4007-ab3c-c81e8c47fec8}|CapaEntidades.dll;{a07ec837-950a-4352-ab24-fb8f08cee292}|CapaNegocios.dll;{4E85AEF3-4802-4FEF-975B-CE261D7FF10D}|CapaDatos.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_10628"
+		Debug.AspNetCompiler.PhysicalPath = "CapaPresentacion\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10628\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_10628"
+		Release.AspNetCompiler.PhysicalPath = "CapaPresentacion\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10628\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "CapaPresentacion\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaEntidades", "CapaEntidades\CapaEntidades.csproj", "{6EB39249-AD3C-4007-AB3C-C81E8C47FEC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocios", "CapaNegocios\CapaNegocios.csproj", "{A07EC837-950A-4352-AB24-FB8F08CEE292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E85AEF3-4802-4FEF-975B-CE261D7FF10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E85AEF3-4802-4FEF-975B-CE261D7FF10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E85AEF3-4802-4FEF-975B-CE261D7FF10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E85AEF3-4802-4FEF-975B-CE261D7FF10D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B0FAE70-A5CB-4A91-8E50-5AF1BC100CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0FAE70-A5CB-4A91-8E50-5AF1BC100CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0FAE70-A5CB-4A91-8E50-5AF1BC100CC1}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0FAE70-A5CB-4A91-8E50-5AF1BC100CC1}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{6EB39249-AD3C-4007-AB3C-C81E8C47FEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB39249-AD3C-4007-AB3C-C81E8C47FEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB39249-AD3C-4007-AB3C-C81E8C47FEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB39249-AD3C-4007-AB3C-C81E8C47FEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07EC837-950A-4352-AB24-FB8F08CEE292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07EC837-950A-4352-AB24-FB8F08CEE292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07EC837-950A-4352-AB24-FB8F08CEE292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07EC837-950A-4352-AB24-FB8F08CEE292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4E85AEF3-4802-4FEF-975B-CE261D7FF10D} = {23669485-5FD8-4B75-8DDA-D2CBEA61D8E2}
+		{6EB39249-AD3C-4007-AB3C-C81E8C47FEC8} = {23669485-5FD8-4B75-8DDA-D2CBEA61D8E2}
+		{A07EC837-950A-4352-AB24-FB8F08CEE292} = {23669485-5FD8-4B75-8DDA-D2CBEA61D8E2}
+		{5B0FAE70-A5CB-4A91-8E50-5AF1BC100CC1} = {C93A388E-6BFF-47E3-95FE-6FE815802844}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Hugo\Desktop\Clases Virtuales\Desarrollo de SW II\SistemaAcademico\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\SistemaAcademico\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\SistemaAcademico\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\SistemaAcademico\CapaNegocios\bin\Debug\CapaDatos.dll
+D:\SistemaAcademico\CapaNegocios\bin\Debug\CapaEntidades.dll
+D:\SistemaAcademico\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\SistemaAcademico\CapaNegocios\bin\Debug\CapaEntidades.pdb
+D:\SistemaAcademico\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+D:\SistemaAcademico\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+D:\SistemaAcademico\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\SistemaAcademico\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaNegocios\bin\Debug\CapaDatos.dll
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaNegocios\bin\Debug\CapaEntidades.dll
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaNegocios\bin\Debug\CapaEntidades.pdb
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\UAC\SEXTO SEMESTRE\DESARROLLO DE SOFTWARE II\proy\CapaNegocios\obj\Debug\CapaNegocios.pdb
